@@ -14,27 +14,27 @@ a{
 	color: royalblue;
 }
 @font-face {
-	src: url(http://edd.us.openode.io/public/fonts/Comfortaa-Regular.ttf);
+	src: url(/public/fonts/Comfortaa-Regular.ttf);
 	font-family: "comfort";
 }
 @font-face {
-	src: url(http://edd.us.openode.io/public/fonts/Nilland.ttf);
+	src: url(/public/fonts/Nilland.ttf);
 	font-family: "nilland";
 }
 @font-face {
-	src: url(http://edd.us.openode.io/public/fonts/Evolution.ttf);
+	src: url(/public/fonts/Evolution.ttf);
 	font-family: "evolution";
 }
 @font-face {
-	src: url(http://edd.us.openode.io/public/fonts/RobotoMono-Light.ttf);
+	src: url(/public/fonts/RobotoMono-Light.ttf);
 	font-family: "robomono";
 }/*R: 173 G: 1 B: 1*/
 @font-face {
-	src: url(http://edd.us.openode.io/public/fonts/Bellerose.ttf);
+	src: url(/public/fonts/Bellerose.ttf);
 	font-family: "br";
 }
 @font-face {
-	src: url(http://edd.us.openode.io/public/fonts/GeosansLight.ttf);
+	src: url(/public/fonts/GeosansLight.ttf);
 	font-family: "gs";
 }
 
@@ -110,7 +110,7 @@ header div nav ul li a:hover {
 	display: block;
 	width: 100%;
 	height: 75vh;
-	background-image: url(http://edd.us.openode.io/public/images/c4.jpg);
+	background-image: url(/public/images/c4.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -142,7 +142,7 @@ box-shadow: 2px 4px 4px 2px rgba(0,0,0,.5);
 .content{
 	width: 100%;
 	height: 170vh;
-	background-image: url(http://edd.us.openode.io/public/images/conimg.jpg);
+	background-image: url(/public/images/conimg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -272,7 +272,7 @@ button{
 	display: block;
 	width: 75%;
 	height: 60%;
-	background-image: url(http://edd.us.openode.io/public/icons/fb.png);
+	background-image: url(/public/icons/fb.png);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -281,7 +281,7 @@ button{
 	display: block;
 	width: 75%;
 	height: 60%;
-	background-image: url(http://edd.us.openode.io/public/icons/li.png);
+	background-image: url(/public/icons/li.png);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -290,7 +290,7 @@ button{
 	display: block;
 	width: 75%;
 	height: 60%;
-	background-image: url(http://edd.us.openode.io/public/icons/wa.png);
+	background-image: url(/public/icons/wa.png);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -299,7 +299,7 @@ button{
 	display: block;
 	width: 75%;
 	height: 60%;
-	background-image: url(http://edd.us.openode.io/public/icons/ins.png);
+	background-image: url(/public/icons/ins.png);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -308,7 +308,7 @@ button{
 	display: block;
 	width: 75%;
 	height: 60%;
-	background-image: url(http://edd.us.openode.io/public/icons/yt.png);
+	background-image: url(/public/icons/yt.png);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;

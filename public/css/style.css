@@ -12,27 +12,27 @@ t{
 }
 /*fonts*/
 @font-face {
-	src: url(http://edd.us.openode.io/public/fonts/Comfortaa-Regular.ttf);
+	src: url(/public/fonts/Comfortaa-Regular.ttf);
 	font-family: "comfort";
 }
 @font-face {
-	src: url(http://edd.us.openode.io/public/fonts/Nilland.ttf);
+	src: url(/public/fonts/Nilland.ttf);
 	font-family: "nilland";
 }
 @font-face {
-	src: url(http://edd.us.openode.io/public/fonts/Evolution.ttf);
+	src: url(/public/fonts/Evolution.ttf);
 	font-family: "evolution";
 }
 @font-face {
-	src: url(http://edd.us.openode.io/public/fonts/RobotoMono-Light.ttf);
+	src: url(/public/fonts/RobotoMono-Light.ttf);
 	font-family: "robomono";
 }/*R: 173 G: 1 B: 1*/
 @font-face {
-	src: url(http://edd.us.openode.io/public/fonts/Bellerose.ttf);
+	src: url(/public/fonts/Bellerose.ttf);
 	font-family: "br";
 }
 @font-face {
-	src: url(http://edd.us.openode.io/public/fonts/GeosansLight.ttf);
+	src: url(/public/fonts/GeosansLight.ttf);
 	font-family: "gs";
 }/*R: 173 G: 1 B: 1*/
 
@@ -157,7 +157,7 @@ header div nav ul li a:hover {
 	cursor: pointer;
 	display: block;
 	margin: 0 auto;
-	background-image: url(http://edd.us.openode.io/public/icons/downarrow.gif);
+	background-image: url(/public/icons/downarrow.gif);
 	background-position: center;
 	background-size: contain;
 	width: 80px;
@@ -167,7 +167,7 @@ header div nav ul li a:hover {
 .content {
 	width: 100%;
 	height: calc(100vh - 20px);
-	background-image: url(http://edd.us.openode.io/public/images/redwhite.jpg);
+	background-image: url(/public/images/redwhite.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -185,7 +185,7 @@ header div nav ul li a:hover {
 	display: block;
 	width: 100%;
 	height: 100%;
-	background-image: url(http://edd.us.openode.io/public/images/youtube.jpg);
+	background-image: url(/public/images/youtube.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -195,7 +195,7 @@ header div nav ul li a:hover {
 	display: block;
 	width: 100%;
 	height: 100%;
-	background-image: url(http://edd.us.openode.io/public/images/filter.jpg);
+	background-image: url(/public/images/filter.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -223,10 +223,10 @@ header div nav ul li a:hover {
 	color: white;
 }
 .contentpart:hover .youimg {
-	background-image: url(http://edd.us.openode.io/public/images/youtube1.jpg);
+	background-image: url(/public/images/youtube1.jpg);
 }
 .contentpart:hover .filterimg {
-	background-image: url(http://edd.us.openode.io/public/images/filter1.jpg);
+	background-image: url(/public/images/filter1.jpg);
 }
 /*footer including address and social links*/
 footer {
@@ -287,7 +287,7 @@ footer {
 	display: block;
 	width: 75%;
 	height: 60%;
-	background-image: url(http://edd.us.openode.io/public/icons/fb.png);
+	background-image: url(/public/icons/fb.png);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -296,7 +296,7 @@ footer {
 	display: block;
 	width: 75%;
 	height: 60%;
-	background-image: url(http://edd.us.openode.io/public/icons/li.png);
+	background-image: url(/public/icons/li.png);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -305,7 +305,7 @@ footer {
 	display: block;
 	width: 75%;
 	height: 60%;
-	background-image: url(http://edd.us.openode.io/public/icons/wa.png);
+	background-image: url(/public/icons/wa.png);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -314,7 +314,7 @@ footer {
 	display: block;
 	width: 75%;
 	height: 60%;
-	background-image: url(http://edd.us.openode.io/public/icons/ins.png);
+	background-image: url(/public/icons/ins.png);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -323,7 +323,7 @@ footer {
 	display: block;
 	width: 75%;
 	height: 60%;
-	background-image: url(http://edd.us.openode.io/public/icons/yt.png);
+	background-image: url(/public/icons/yt.png);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
